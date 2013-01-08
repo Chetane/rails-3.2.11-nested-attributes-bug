@@ -1,0 +1,11 @@
+.DS_Store
+/.bundle
+/.idea
+/.project
+/.rspec
+/db/*.sqlite3
+/log/*.log
+/tmp/*
+/public/assets
+/assets
+*~
